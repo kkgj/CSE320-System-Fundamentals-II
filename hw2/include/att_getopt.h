@@ -1,0 +1,1 @@
+int att_getopt(int argc, char **argv, char *opts);
